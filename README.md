@@ -22,7 +22,6 @@ Willkommen auf meinem GitHub-Profil! Ich bin leidenschaftlicher Webentwickler mi
 
 ### Frameworks und Tools  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -55,7 +54,6 @@ Willkommen auf meinem GitHub-Profil! Ich bin leidenschaftlicher Webentwickler mi
 
 ## 🌐 So erreichst du mich  
 - 📧 E-Mail: [Hidingmrx@pm.me]  
-- 💼 LinkedIn: [[Dein LinkedIn-Profil](https://www.linkedin.com/in/kmws2311/)]
 <!-- 
 - 🌍 Portfolio: [Deine Website](https://www.dein-portfolio.com)  
 
