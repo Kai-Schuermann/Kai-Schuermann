@@ -1,4 +1,4 @@
-# 👋 Hallo, ich bin Kai!  
+# 👋 Hallo, ich bin LeftShift7!  
 
 Willkommen auf meinem GitHub-Profil! Ich bin leidenschaftlicher Webentwickler mit Interesse an Open-Source-Projekten, modernen Web-Technologien und der Optimierung von Arbeitsprozessen.
 
@@ -8,7 +8,7 @@ Willkommen auf meinem GitHub-Profil! Ich bin leidenschaftlicher Webentwickler mi
 - 🔭 **Aktuelles Projekt:** [Name deines Projekts](Link zum Projekt)  
 - 🌱 **Ich lerne zurzeit:** Webentwicklung (HTML, CSS, JavaScript, Python) und versuche alles in Django zusammenzuführen  
 - 💡 **Interessensgebiete:** Programmierung, Linux, Open Source, Fitness und Gesundheit  
-- 📫 **Kontaktiere mich:** Hidingmrx@pm.me | [[LinkedIn-Profil-Link]](https://www.linkedin.com/in/kmws2311/)  
+- 📫 **Kontaktiere mich:** leftshift7@pm.me   
 
 ---
 
@@ -53,7 +53,7 @@ Willkommen auf meinem GitHub-Profil! Ich bin leidenschaftlicher Webentwickler mi
 ---
 
 ## 🌐 So erreichst du mich  
-- 📧 E-Mail: [Hidingmrx@pm.me]  
+- 📧 E-Mail: leftshift7@pm.me
 <!-- 
 - 🌍 Portfolio: [Deine Website](https://www.dein-portfolio.com)  
 
