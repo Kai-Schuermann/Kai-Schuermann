@@ -1,81 +1,69 @@
-# 👋 Hallo, ich bin LeftShift7!  
+# 👋 Willkommen im System von leftshift7
 
-Willkommen auf meinem GitHub-Profil! Ich bin leidenschaftlicher Webentwickler mit Interesse an Open-Source-Projekten, modernen Web-Technologien und der Optimierung von Arbeitsprozessen.
-
----
-
-## 🌟 Über mich  
-- 🔭 **Aktuelles Projekt:** [Name deines Projekts](Link zum Projekt)  
-- 🌱 **Ich lerne zurzeit:** Webentwicklung (HTML, CSS, JavaScript, Python) und versuche alles in Django zusammenzuführen  
-- 💡 **Interessensgebiete:** Programmierung, Linux, Open Source, Fitness und Gesundheit  
-- 📫 **Kontaktiere mich:** leftshift7@pm.me   
+Ich bin ein technologiebegeisterter Problemlöser mit einem Hintergrund in Mechatronik, Systemintegration und Webentwicklung. Aktuell fokussiere ich mich voll auf den Bereich der **IT-Sicherheit** und des **ethischen Hackings**. Mein Ziel ist es, Systeme bis ins Detail zu verstehen, um sie sicherer zu machen.
 
 ---
 
-## ⚡ Meine Skills  
-### Sprachen  
+## 🌟 Über mich
+
+- 🔭 **Aktuelles Projekt:** Aufbau und Härtung meines persönlichen Hacking-Labors mit VirtualBox.
+- 🌱 **Ich lerne zurzeit:** Penetration Testing Methodologies, Netzwerksicherheit und Web Application Security auf Plattformen wie [TryHackMe](https://tryhackme.com/p/leftshift7).
+- 💡 **Interessensgebiete:** Offensive Security, Netzwerk-Analyse, OPSEC, Linux, Python-Scripting.
+- 📫 **Kontaktiere mich:** leftshift7@pm.me
+
+---
+
+## ⚡ Meine Skills
+
+### Sprachen & Technologien
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frameworks und Tools  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### Betriebssysteme & Werkzeuge
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-<!--
----
-
-## 🚀 Meine Projekte  
-### 📂 [Projektname 1](Link zum Projekt)  
-**Beschreibung:** Eine kurze Beschreibung, was das Projekt macht und warum es interessant ist.  
-**Technologien:** Python, Django, HTML, CSS  
-- 🌟 Highlights:  
-  - Feature 1  
-  - Feature 2  
-
-### 📂 [Projektname 2](Link zum Projekt)  
-**Beschreibung:** Eine kurze Beschreibung.  
-**Technologien:** React, JavaScript, CSS  
-- 🌟 Highlights:  
-  - Feature 1  
-  - Feature 2  
-
----
--->
-## 📊 Meine Statistiken  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kai-Schuermann&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kai-Schuermann&layout=compact&theme=radical)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-44A95B?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-0E4B83?style=for-the-badge&logo=metasploit&logoColor=white)
 
 ---
 
-## 🌐 So erreichst du mich  
+## 🚀 Meine Projekte
+
+### 📂 Telegram Anti-Bot Guard
+**Repository:** https://github.com/LeftShift7/Telegram-kickbots
+
+**Beschreibung:** Ein in Python entwickelter Bot zur Absicherung von Telegram-Gruppen. Er schützt Communitys aktiv vor Spam, indem er nicht nur bekannte Bot-Konten, sondern auch hochentwickelte User-Bots mittels einer dynamischen Verifizierungsfrage blockiert.
+
+**Technologien:** Python, `python-telegram-bot` API, `systemd` für den Service-Betrieb, Linux Server Hardening.
+
+- 🌟 **Highlights:**
+  - **Vollständiger Projektzyklus:** Von der Idee über die KI-gestützte Entwicklung bis zum eigenständigen Deployment auf einem gehärteten Hetzner Cloud Server.
+  - **Praktische Problemlösung:** Der Bot löst ein reales Problem und ist aktiv im Einsatz, um eine Community sauber zu halten.
+  - **Fokus auf Sicherheit:** Implementierung einer Verifizierungsmethode, die nicht durch einfaches Auslesen der Button-Daten umgangen werden kann.
+
+
+---
+
+## 📊 Meine Statistiken
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeftShift7&show_icons=true&theme=radical&hide_border=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeftShift7&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 🌐 So erreichst du mich
+
 - 📧 E-Mail: leftshift7@pm.me
-<!-- 
-- 🌍 Portfolio: [Deine Website](https://www.dein-portfolio.com)  
-
----
--->
-### 💡 Fun Fact  
-*"Code ist wie ein Puzzle - das Beste daran ist, wenn alle Teile perfekt zusammenpassen!"*
 
 ---
 
+### 💡 Motto
+*"Um ein System zu schützen, musst du zuerst lernen, es zu brechen."*
 
-<!--
-**Kai-Schuermann/Kai-Schuermann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
